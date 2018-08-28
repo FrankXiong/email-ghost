@@ -1,0 +1,17 @@
+{
+  "name": "email-ghost",
+  "version": "1.0.0",
+  "description": "email ghost",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js localhost 8080"
+  },
+  "author": "xiongxianren",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.3"
+  }
+}
