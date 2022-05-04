@@ -4,6 +4,6 @@ module.exports = {
   "content": "苟利国家生死以",
   "loginInfo": {
     "email": "qwq126@sina.com",
-    "password": "951013xm"
+    "password": "xxx"
   }
 }
